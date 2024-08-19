@@ -28,7 +28,7 @@
 ## 💼 **Professional Experience**
 
 ### **Software Engineer - Data Science/ML Engineer**  
-**Reliance Jio | December 2021 – Present | Mumbai**
+**Reliance Jio | 2021 – Present | Mumbai**
 
 #### **Project 1: Predictive Throughput Analysis for Pan India 4G and 5G Mobility Traffic Model**
 - Spearheaded the development of a tool to analyze 4G and 5G mobility for 'Mobility Management Entity' equipment across pan India.
@@ -47,14 +47,10 @@
 
 
 ### **Data Scientist Intern**  
-**Blackcoffer - Big Data Analytics, IT Services | May 2021 – July 2021 | Delhi (Remote)**
+**Blackcoffer - Big Data Analytics, IT Services | 2021 | Delhi (Remote)**
 
 #### **Project Title: Open Source Data Insights**
-- Conducted research to extract valuable insights from data using open-source tools like Python, Gremlin, and JanusGraph.
-- **Project Details:**
-  - Cleaned, transformed, and organized data for analysis.
-  - Leveraged JanusGraph for storing and retrieving complex data.
-  - Identified trends and anomalies in the data.
+- Conducted research to extract valuable insights from data using open-source tools like Python, JanusGraph on Apache TinkerPop (Gremlin) server. 
 
 ---
 
