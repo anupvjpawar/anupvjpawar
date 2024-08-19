@@ -4,7 +4,6 @@
 📍 **Location:** Mumbai, India  
 ✉️ **Email:** [anupvjpawar@hotmail.com](mailto:anupvjpawar@hotmail.com)  
 📱 **Phone:** +91 9321951236  
-🔗 **GitHub:** [anupvjpawar](https://github.com/anupvjpawar)  
 🔗 **LinkedIn:** [anupvjpawar](https://linkedin.com/in/anupvjpawar)  
 
 ---
