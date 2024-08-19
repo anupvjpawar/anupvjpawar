@@ -33,31 +33,19 @@
 
 #### **Project 1: Predictive Throughput Analysis for Pan India 4G and 5G Mobility Traffic Model**
 - Spearheaded the development of a tool to analyze 4G and 5G mobility for 'Mobility Management Entity' equipment across pan India.
-- **Accomplishments:**
-  - Implemented machine learning models like linear regression using Python to predict network metrics.
-  - Utilized Scikit-Learn and Statsmodels for detailed statistical modeling.
-  - Proficient in TensorFlow, SQLAlchemy, and SQLConnector.
+
 
 #### **Project 2: Oracle Log Data Analysis and Anomaly Detection of Bare Metal Servers**
 - Developed a tool to process Oracle data logs, restructure data, and detect anomalies using regression and ML tools.
-- **Accomplishments:**
-  - Extracted and restructured telecom log data using Python and Pandas.
-  - Implemented logistic regression for anomaly detection.
-  - Used TensorFlow and scikit-learn for ML model development.
+
 
 #### **Project 3: Trend Analysis for ISOC Pan India 4G & 5G Subscribers**
 - Developed a web portal for real-time trend analysis of 4G and 5G subscriber data to enhance network performance.
-- **Accomplishments:**
-  - Created a data pipeline using SQL to store and process data.
-  - Designed an interactive Power BI dashboard for data visualization.
-  - Implemented Time Series Forecasting to visualize key performance indicators (KPIs).
+
 
 #### **Project 4: Data Audit Automation for Multiple Pan India 4G and 5G Components**
 - Automated the comparison of 5G configuration data and log files across India.
-- **Accomplishments:**
-  - Reduced manual work and ensured accuracy through automation.
-  - Identified data discrepancies quickly, minimizing network disruptions.
-  - Utilized Python, Pandas, and Excel for data manipulation and analysis.
+
 
 ### **Data Scientist Intern**  
 **Blackcoffer - Big Data Analytics, IT Services | May 2021 – July 2021 | Delhi (Remote)**
