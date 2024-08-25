@@ -2,8 +2,10 @@
 
 **Data Science | Machine Learning Engineer | Gen AI**  
 📍 **Location:** Mumbai, India 
+
 ✉️ **Email:** [📧 anupvjpawar@hotmail.com](mailto:anupvjpawar@hotmail.com)  
 🔗 **LinkedIn:** [🔗 anupvjpawar](https://linkedin.com/in/anupvjpawar)  
+
 📱 **Phone:** +91 9321951236  
 
 
