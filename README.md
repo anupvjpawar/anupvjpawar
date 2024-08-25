@@ -1,6 +1,6 @@
 # 👨‍💻 Anup Pawar
 
-**Data Science | Machine Learning Engineer | Gen AI**  
+**LLM | Computer Vision | Data Science | Machine Learning Engineer | Gen AI**  
 📍 **Location:** Mumbai, India 
 
 ✉️ **Email:** [📧 anupvjpawar@hotmail.com](mailto:anupvjpawar@hotmail.com)  
