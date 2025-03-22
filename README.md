@@ -89,4 +89,4 @@
 </div>
 
 
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2JkZjBjYWUtZDA2Zi00NjFkLThkMTAtZDExZWQ3OTEzOTEy%40thread.v2/0?context=%7b%22Tid%22%3a%2263ce7d59-2f3e-42cd-a8cc-be764cff5eb6%22%2c%22Oid%22%3a%22f76bcbcd-5d19-4e24-bf72-68b67d4b0ea8%22%7d
+https://cx.persistent.com/scheduling/session-join?c=eyJpdiI6IjdlNDZiODk4YzI3ZTJhZTIxYWU2YjlmNzlhYTc1YmQ2IiwiZGF0YSI6IjM1ZTBhMmZiOGViZDBhY2EzOGExNTRlNDgyNzhlODFmNjE1YjIxNjQ2MDFlMzNjMzU1MDViMjQzYzVjNzkwNTk3OTFjMGRiYTU5ZjQ5ODQ3ZjRiNGE2OGY2N2Y2NTRjMSJ9&meetingId=137018&tid=2867
