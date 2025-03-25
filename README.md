@@ -87,6 +87,3 @@
 <div align="center">
     © [Anup Pawar](https://github.com/anupvjpawar) | Made with ❤️ in Mumbai, India
 </div>
-
-
-https://cx.persistent.com/scheduling/session-join?c=eyJpdiI6IjdlNDZiODk4YzI3ZTJhZTIxYWU2YjlmNzlhYTc1YmQ2IiwiZGF0YSI6IjM1ZTBhMmZiOGViZDBhY2EzOGExNTRlNDgyNzhlODFmNjE1YjIxNjQ2MDFlMzNjMzU1MDViMjQzYzVjNzkwNTk3OTFjMGRiYTU5ZjQ5ODQ3ZjRiNGE2OGY2N2Y2NTRjMSJ9&meetingId=137018&tid=2867
